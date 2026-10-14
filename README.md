@@ -2,7 +2,7 @@
 
 Premium Corp Bot OS Update as of 10/14/2026
 
-```java 
+```javascript 
 - New Text
 
 int 2 =2
