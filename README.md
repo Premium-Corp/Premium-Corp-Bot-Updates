@@ -5,5 +5,5 @@ Premium Corp Bot OS Update as of 10/14/2026
 ```javascript 
 - New Text
 
-int 2 =2
+var  2 =2
 ```
